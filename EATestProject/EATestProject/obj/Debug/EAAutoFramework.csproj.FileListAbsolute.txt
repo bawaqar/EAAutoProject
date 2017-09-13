@@ -1,0 +1,16 @@
+C:\Users\qsiddiqui\Documents\EATestProject\EATestProject\EATestProject\bin\Debug\chromedriver.exe
+C:\Users\qsiddiqui\Documents\EATestProject\EATestProject\EATestProject\bin\Debug\Config\GlobalConfig.xml
+C:\Users\qsiddiqui\Documents\EATestProject\EATestProject\EATestProject\bin\Debug\EAAutoFramework.dll.config
+C:\Users\qsiddiqui\Documents\EATestProject\EATestProject\EATestProject\bin\Debug\EAAutoFramework.dll
+C:\Users\qsiddiqui\Documents\EATestProject\EATestProject\EATestProject\bin\Debug\EAAutoFramework.pdb
+C:\Users\qsiddiqui\Documents\EATestProject\EATestProject\EATestProject\bin\Debug\Excel.dll
+C:\Users\qsiddiqui\Documents\EATestProject\EATestProject\EATestProject\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\qsiddiqui\Documents\EATestProject\EATestProject\EATestProject\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\qsiddiqui\Documents\EATestProject\EATestProject\EATestProject\bin\Debug\WebDriver.dll
+C:\Users\qsiddiqui\Documents\EATestProject\EATestProject\EATestProject\bin\Debug\WebDriver.Support.dll
+C:\Users\qsiddiqui\Documents\EATestProject\EATestProject\EATestProject\bin\Debug\Excel.pdb
+C:\Users\qsiddiqui\Documents\EATestProject\EATestProject\EATestProject\bin\Debug\WebDriver.xml
+C:\Users\qsiddiqui\Documents\EATestProject\EATestProject\EATestProject\bin\Debug\WebDriver.Support.xml
+C:\Users\qsiddiqui\Documents\EATestProject\EATestProject\EATestProject\obj\Debug\EAAutoFramework.csprojResolveAssemblyReference.cache
+C:\Users\qsiddiqui\Documents\EATestProject\EATestProject\EATestProject\obj\Debug\EAAutoFramework.dll
+C:\Users\qsiddiqui\Documents\EATestProject\EATestProject\EATestProject\obj\Debug\EAAutoFramework.pdb
